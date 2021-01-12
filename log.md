@@ -18,3 +18,12 @@
 
   **Link to work:** [Link to the code](https://github.com/IsinghGitHub/Data-Structure)
 
+  ### Day 3: January 13, 2021
+
+
+  **Today's Progress**: Today's Progress: Coded & Documented on QuickSort
+CodeLink:https://github.com/IsinghGitHub/Data-Structure
+
+Feeling litle tired today after longday work
+  **Link to work:** [Link to the code](https://github.com/IsinghGitHub/Data-Structure)
+
