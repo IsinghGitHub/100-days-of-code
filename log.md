@@ -30,3 +30,10 @@ Feeling litle tired today after longday work
 CodeLink:https://github.com/IsinghGitHub/Data-Structure
 
 **Link to work:** [Link to the code](https://github.com/IsinghGitHub/Data-Structure)
+
+### Day 5: January 20, 2021
+
+**Today's Progress**: 2D-Vector
+CodeLink:https://github.com/IsinghGitHub/Data-Structure
+
+**Link to work:** [Link to the code](https://github.com/IsinghGitHub/Data-Structure)
