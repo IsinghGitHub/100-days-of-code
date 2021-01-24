@@ -37,3 +37,10 @@ CodeLink:https://github.com/IsinghGitHub/Data-Structure
 CodeLink:https://github.com/IsinghGitHub/Data-Structure
 
 **Link to work:** [Link to the code](https://github.com/IsinghGitHub/Data-Structure)
+
+### Day 6: January 25, 2021
+
+**Today's Progress**: Binary Search Tree Basics . Documentation and Code.
+CodeLink:https://github.com/IsinghGitHub/Data-Structure
+
+[Link to the code](https://github.com/IsinghGitHub/Data-Structure)
