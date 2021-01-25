@@ -14,33 +14,33 @@
 
 **Thoughts:** Time and Space Complexity is most important aspect of the code.
 
-**Link to work:** [Link to the code](https://github.com/IsinghGitHub/Data-Structure)
+**Link to work:** [Link to the code](CodeLink:https://github.com/IsinghGitHub/DataStructure)
 
 ### Day 3: January 13, 2021
 
 **Today's Progress**: Today's Progress: Coded & Documented on QuickSort
-CodeLink:https://github.com/IsinghGitHub/Data-Structure
+CodeLink:CodeLink:https://github.com/IsinghGitHub/DataStructure
 
 Feeling litle tired today after longday work
-**Link to work:** [Link to the code](https://github.com/IsinghGitHub/Data-Structure)
+**Link to work:** [Link to the code](CodeLink:https://github.com/IsinghGitHub/DataStructure)
 
 ### Day 4: January 17, 2021
 
 **Today's Progress**: Missed copuple of days but today I resumed again. Worked on basic array manipulation and Linked LIST programs.
 CodeLink:https://github.com/IsinghGitHub/Data-Structure
 
-**Link to work:** [Link to the code](https://github.com/IsinghGitHub/Data-Structure)
+**Link to work:** [Link to the code](CodeLink:https://github.com/IsinghGitHub/DataStructure)
 
 ### Day 5: January 20, 2021
 
 **Today's Progress**: 2D-Vector
-CodeLink:https://github.com/IsinghGitHub/Data-Structure
+CodeLink: https://github.com/IsinghGitHub/DataStructure
 
-**Link to work:** [Link to the code](https://github.com/IsinghGitHub/Data-Structure)
+**Link to work:** [Link to the code](CodeLink:https://github.com/IsinghGitHub/DataStructure)
 
 ### Day 6: January 25, 2021
 
 **Today's Progress**: Binary Search Tree Basics . Documentation and Code.
-CodeLink:https://github.com/IsinghGitHub/Data-Structure
+CodeLink:CodeLink:https://github.com/IsinghGitHub/DataStructure
 
-[Link to the code](https://github.com/IsinghGitHub/Data-Structure)
+[Link to the code](CodeLink:https://github.com/IsinghGitHub/DataStructure)
