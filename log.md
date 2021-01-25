@@ -44,3 +44,10 @@ CodeLink: https://github.com/IsinghGitHub/DataStructure
 CodeLink:CodeLink:https://github.com/IsinghGitHub/DataStructure
 
 [Link to the code](CodeLink:https://github.com/IsinghGitHub/DataStructure)
+
+### Day 7: January 26, 2021
+
+**Today's Progress**: Merge Sort Code. Documentation on Merge Sort.
+It has been a busy day but I can't go to bed without coding.
+
+[Link to the code](CodeLink:https://github.com/IsinghGitHub/DataStructure)
