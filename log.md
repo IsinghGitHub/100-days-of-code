@@ -51,3 +51,17 @@ CodeLink:CodeLink:https://github.com/IsinghGitHub/DataStructure
 It has been a busy day but I can't go to bed without coding.
 
 [Link to the code]CodeLink:https://github.com/IsinghGitHub/DataStructure
+
+### Day 8: January 27, 2021
+
+**Today's Progress**: Updated the Merge Sort Analysis and Time Complexity in Document.
+
+[Link to the code]CodeLink:https://github.com/IsinghGitHub/DataStructure
+
+### Day 9: January 28, 2021
+
+**Today's Progress**: Started List and Pointers
+
+FIrst the theory part and and then will start the coding.
+
+[Link to the code]CodeLink:https://github.com/IsinghGitHub/DataStructure
