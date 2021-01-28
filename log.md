@@ -65,3 +65,13 @@ It has been a busy day but I can't go to bed without coding.
 FIrst the theory part and and then will start the coding.
 
 [Link to the code]CodeLink:https://github.com/IsinghGitHub/DataStructure
+
+### Day 10: January 29, 2021
+
+**Today's Progress**: LinkedList
+
+A singly linked list is a list with only one pointer between two successive nodes. It can only
+be traversed in a single direction, that is, you can go from the first node in the list to the last
+node, but you cannot move from the last node to the first node.
+
+[Link to the code]CodeLink:https://github.com/IsinghGitHub/DataStructure
